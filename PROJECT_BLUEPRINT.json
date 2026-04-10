@@ -1,0 +1,36 @@
+{
+  "project_name": "mi-primer-proyecto",
+  "version": "1.0.0",
+  "description": "Una aplicación web 'Hola Mundo' premium siguiendo el Animum Design System.",
+  "architecture": {
+    "frontend": "Vanilla HTML, CSS, JS",
+    "deployment": "GitHub",
+    "design_system": "Animum 3D Design System"
+  },
+  "phases": [
+    {
+      "phase": "Discovery",
+      "agent": "@analista-estrategico",
+      "outputs": ["PROJECT_BLUEPRINT.json", "RAW_DATA_STRUCTURE.json"]
+    },
+    {
+      "phase": "Construction",
+      "agent": "@constructor-apps",
+      "outputs": ["index.html", "style.css", "main.js"]
+    },
+    {
+      "phase": "Aesthetics",
+      "agent": "@diseñador",
+      "focus": "Animum Brand Identity"
+    },
+    {
+      "phase": "Quality",
+      "agent": "@tester-expert",
+      "tasks": ["E2E Testing", "GitHub Repo Creation", "Initial Push"]
+    }
+  ],
+  "github_config": {
+    "repo_name": "mi-primer-proyecto",
+    "visibility": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "app_metadata": {
+    "title": "Hola Mundo - Animum Edition",
+    "description": "Una demostración de excelencia visual con Animum Design System.",
+    "theme": "Dark Premium"
+  },
+  "content": {
+    "heading": "¡Hola Mundo!",
+    "subheading": "Bienvenido a Animum Creativity Advanced School",
+    "cta_text": "Saber más",
+    "footer": "© 2026 Animum Creativity Advanced School. Todos los derechos reservados."
+  },
+  "visuals": {
+    "background_color": "#190C1C",
+    "primary_color": "#C4005E",
+    "accent_color": "#592C5F",
+    "text_primary": "#F7F7F7",
+    "text_secondary": "#CDCDCD"
+  }
+}
